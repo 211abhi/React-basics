@@ -1,9 +1,10 @@
-
+import App2 from "./App2"
 
 function App() {
 
 
-  return (<h1> hey</h1>
+  return (
+    <App2/>
   )
 }
 
